@@ -1,0 +1,3 @@
+booking_id,date,name,phone,service,slot,price,status
+2,2026-07-06,haris,1234,Fade,7/6 | 5pm,25,Confirmed
+3,2026-07-06,testing,11526622,Smart Cut,7/6 | 6pm,15,Confirmed
